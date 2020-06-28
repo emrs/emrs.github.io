@@ -1,7 +1,7 @@
 {
   "theme": "grind",
   "status": "active",
-  "active": true,
+  "active": "true",
   "type": "wordpress",
   "version": 1.0
 }
